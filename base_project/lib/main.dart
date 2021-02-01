@@ -101,6 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'You have pushed the button this many times:',
             ),
+            Text('this is new development of this app'),
             Image.asset("config/assets/logo.jpg"),
             Text(
               '$_counter',

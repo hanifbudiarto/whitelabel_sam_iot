@@ -103,6 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text('this is new development of this app'),
             Text('this is other feature'),
+            Text('coolest feature'),
             Image.asset("config/assets/logo.jpg"),
             Text(
               '$_counter',
